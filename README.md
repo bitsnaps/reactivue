@@ -1,4 +1,11 @@
-# reactivue
+# ReactiVue
+
+A simple example for VueRX.
+
+# Install VueRx
+```
+npm install vue vue-rx rxjs --save
+```
 
 ## Project setup
 ```
